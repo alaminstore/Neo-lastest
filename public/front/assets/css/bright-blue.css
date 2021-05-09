@@ -1,0 +1,168 @@
+a:hover, a:focus, a:active {
+    color: #3084bb;
+}
+.sidenav .link-menu:hover {
+    color: #3084bb;
+}
+.cat-links a:hover {
+    color: #3084bb;
+}
+.close-icon:hover {
+    color: #3084bb;
+}
+.box-header-nav .main-menu .menu-item:hover > a {
+    color: #3084bb;
+}
+.block-user .sub-menu {
+    border-top: 2px solid rgb(48, 132, 187);
+}
+.meta-dreaming.p-fixed .block-minicart {
+    background-color: rgba(48, 132, 187, .7);
+}
+.meta-dreaming .block-dreaming .block-link .count {
+    background-color: rgb(46, 49, 147);
+}
+.slide-home-03 .slide-wrap .slide-info h1 {
+    color: #3084bb;
+}
+.slide-home-03 .slide-wrap .slide-info h2 span {
+    color: #3084bb;
+}
+.slide-wrap .slide-info a::before {
+    border-bottom: 9px solid #3084bb;
+}
+.slick-dots li button:hover::before, .slick-dots li.slick-active button::before {
+    border: 2px solid #3084bb;
+}
+.slick-dots li button {
+    background-color: #3084bb;
+}
+.owl-slick .slick-arrow:hover {
+    color: rgb(48, 132, 187);
+}
+.kreen-heading.style-01 .title::before {
+    border-bottom: 4px solid #3084bb;
+}
+.product-item.style-04 .product-inner:hover {
+    border-color: #3084bb;
+}
+.onsale {
+    background-color: #3084bb;
+}
+.product-item.style-04 .group-button .add-to-cart, .product-item.style-04 .group-button .yith-wcwl-add-to-wishlist, .product-item.style-04 .group-button .compare-button, .product-item.style-04 .group-button .yith-wcqv-button {
+    background-color: #3084bb;
+}
+.price {
+    color: #3084bb;
+}
+.price ins {
+    color: #3084bb;
+}
+.kreen-testimonial.style-02 .desc::before {
+    color: #3084bb;
+}
+.kreen-testimonial.style-02 .thumb img {
+    border: 3px solid #3084bb;
+}
+.kreen-iconbox.style-02 .icon {
+    color: #3084bb;
+}
+.datebox {
+    background-color: #3084bb;
+}
+.post-item .post-comment-icon a::before {
+    color: #3084bb;
+}
+.post-item .post-author::before {
+    color: #3084bb;
+}
+.link-wapper ul li a:hover {
+    color: #3084bb;
+}
+.kreen-newsletter.style-01 .title {
+    color: #3084bb;
+}
+.kreen-newsletter.style-01 .submit-newsletter::before {
+    background: #3084bb;
+}
+.kreen-socials.style-01 .socials-list li a::before {
+    background-color: #3084bb;
+}
+a.backtotop {
+    border: 2px solid #3084bb;
+}
+a.backtotop:hover {
+    background-color: #3084bb;
+}
+a.backtotop i {
+    color: #3084bb;
+}
+.stock.in-stock span {
+    color: #3084bb;
+}
+.widget_shopping_cart .widget_shopping_cart_content .minicart-title .minicart-number-items {
+    background-color:rgb(48, 132, 187);
+}
+.widget_shopping_cart .kreen-mini-cart__total .kreen-Price-amount {
+    color: #3084bb;
+}
+button, input[type="submit"], input[type="button"], .dreaming-btn {
+    background-color: #3084bb;
+}
+.qt-btn-ad-to-cart {
+    background-color: #3084bb;
+}
+.entry-summary .cart .single_add_to_cart_button:hover {
+    background-color: #3084bb;
+}
+.view-btn-inner a {
+    background: #3084bb;
+}
+div.quantity {
+    border: 1px solid #3084bb;
+}
+div.quantity .btn-number {
+    background-color: #3084bb;
+}
+
+/* shop page */
+.page-title::before {
+    background-color: #3084bb;
+}
+.grid-view-mode .modes-mode:hover, .grid-view-mode .modes-mode:focus, .grid-view-mode .modes-mode:active, .grid-view-mode .modes-mode.active {
+    border-color: #3084bb;
+    background-color: #3084bb;
+}
+.kreen-pagination span.page-numbers.current, .kreen-pagination span.page-numbers:hover, .kreen-pagination a.page-numbers:hover, .kreen-pagination a.page-numbers:hover, .kreen-pagination li .page-numbers.current, .kreen-pagination li .page-numbers:hover, .comments-pagination .page-numbers.current, .comments-pagination a.page-numbers:hover, .post-pagination > span:not(.title), .post-pagination a span:hover, .pagination .page-numbers.current, .pagination .page-numbers:hover {
+    border-color: #3084bb;
+    background-color: #3084bb;
+}
+
+/* single product page */
+.entry-summary .kreen-share-socials {
+    background: #3084bb;
+}
+.dreaming-tabs li a::before {
+    border-color:  #3084bb;
+}
+.block-title .product-grid-title::before, .block-title .product-grid-title::after {
+    background-color: #3084bb;
+}
+.comment-form .form-submit #submit:hover {
+    background-color: rgb(27, 27, 27);
+}
+.entry-summary .yith-wcwl-add-to-wishlist .add_to_wishlist:hover::before {
+    color: #3084bb;
+}
+
+/* single blog page */
+.widget_categories .cat-item a:hover::before, .widget_product_categories .cat-item label input:checked + span::before, .kreen-widget-layered-nav .kreen-widget-layered-nav-list__item label input:checked + span::before, .widget_product_categories .cat-item label input + span:hover::before, .kreen-widget-layered-nav .kreen-widget-layered-nav-list__item label input + span:hover::before {
+    border-color: #3084bb;
+    background-color: #3084bb;
+}
+blockquote, q {
+    border-left: 3px solid #3084bb;
+}
+
+
+

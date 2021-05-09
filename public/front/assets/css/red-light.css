@@ -1,0 +1,182 @@
+a:hover, a:focus, a:active {
+    color: #ec1c24;
+}
+.sidenav .link-menu:hover {
+    color: #ec1c24;
+}
+.cat-links a:hover {
+    color: #ec1c24;
+}
+.close-icon:hover {
+    color: #ec1c24;
+}
+.box-header-nav .main-menu .menu-item:hover > a {
+    color: #ec1c24;
+}
+.block-user .sub-menu {
+    border-top: 2px solid rgb(214, 6, 36);
+}
+.meta-dreaming.p-fixed .block-minicart {
+    background-color: rgba(214, 6, 14, .7);
+}
+.meta-dreaming .block-dreaming .block-link .count {
+    background-color: rgb(243, 59, 4);
+}
+.slide-home-03 .slide-wrap .slide-info h1 {
+    color: #ec1c24;
+}
+.slide-home-03 .slide-wrap .slide-info h2 span {
+    color: #ec1c24;
+}
+.slide-wrap .slide-info a::before {
+    border-bottom: 9px solid #ec1c24;
+}
+.slick-dots li button:hover::before, .slick-dots li.slick-active button::before {
+    border: 2px solid #ec1c24;
+}
+.slick-dots li button {
+    background-color: #ec1c24;
+}
+.owl-slick .slick-arrow:hover {
+    color: rgb(236, 28, 36);
+}
+.kreen-heading.style-01 .title {
+    background-image: url(../images/title-bg-red.png);
+}
+.kreen-heading.style-01 .title::before {
+    border-bottom: 4px solid #ec1c24;
+}
+.product-item.style-04 .product-inner:hover {
+    border-color: #ec1c24;
+}
+.onsale {
+    background-color: #ec1c24;
+}
+.product-item.style-04 .group-button .add-to-cart, .product-item.style-04 .group-button .yith-wcwl-add-to-wishlist, .product-item.style-04 .group-button .compare-button, .product-item.style-04 .group-button .yith-wcqv-button {
+    background-color: #ec1c24;
+}
+.price {
+    color: #ec1c24;
+}
+.price ins {
+    color: #ec1c24;
+}
+.kreen-testimonial.style-02 .desc::before {
+    color: #ec1c24;
+}
+.kreen-testimonial.style-02 .thumb img {
+    border: 3px solid #ec1c24;
+}
+.kreen-iconbox.style-02 .icon {
+    color: #ec1c24;
+}
+.datebox {
+    background-color: #ec1c24;
+}
+.post-item .post-comment-icon a::before {
+    color: #ec1c24;
+}
+.post-item .post-author::before {
+    color: #ec1c24;
+}
+.link-wapper ul li a:hover {
+    color: #ec1c24;
+}
+.kreen-newsletter.style-01 .title {
+    color: #ec1c24;
+}
+.kreen-newsletter.style-01 .submit-newsletter::before {
+    background: #ec1c24;
+}
+.kreen-socials.style-01 .socials-list li a::before {
+    background-color: #ec1c24;
+}
+a.backtotop {
+    border: 2px solid #ec1c24;
+}
+a.backtotop:hover {
+    background-color: #ec1c24;
+}
+a.backtotop i {
+    color: #ec1c24;
+}
+
+.view-btn-inner a {
+    background: #ec1c24;
+}
+.stock.in-stock span {
+    color: #ec1c24;
+}
+.widget_shopping_cart .widget_shopping_cart_content .minicart-title .minicart-number-items {
+    background-color:rgb(214, 6, 36);
+}
+.widget_shopping_cart .kreen-mini-cart__total .kreen-Price-amount {
+    color: #ec1c24;
+}
+button, input[type="submit"], input[type="button"], .dreaming-btn {
+    background-color: #ec1c24;
+}
+div.quantity {
+    border: 1px solid #ec1c24;
+}
+div.quantity .btn-number {
+    background-color: #ec1c24;
+}
+
+/* testimonial */
+.section-034 {
+    background-image: url(../images/test-bg-3.jpg);
+}
+
+
+/* footer subs button */
+/* .kreen-newsletter.style-01 .email-newsletter {
+    padding-right: 20px;
+}
+.kreen-newsletter.style-01 .submit-newsletter {
+    display: inline-block;
+    height: 42px;
+    line-height: 42px;
+    border-radius: 50px;
+    min-width: auto;
+    margin-top: 12px;
+    padding: 0 16px;
+    font-size: 12px;
+    font-weight: 600;
+    position: relative;
+} */
+
+
+/* more categories */
+.cat-menu-more {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #fff;
+    transform: translateX(100%);
+    transition: all .5s ease-in-out;
+    overflow: hidden;
+  }
+  
+  .cat-more-btn-back {
+    display: flex;
+  }
+  
+  .cat-more-btn-back .btn-back {
+    width: 40px;
+  }
+  .menu-more-list {
+      position: relative;
+  }
+  .menu-more-list .more-link-list {
+    width :280px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 280px;
+    background-color: #000;
+  }
+
+

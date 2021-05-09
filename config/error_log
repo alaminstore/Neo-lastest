@@ -1,0 +1,48 @@
+[17-Feb-2021 04:58:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/antoplis/host/neo-bazaar.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/antoplis/host/neo-bazaar.com/config/app.php on line 16
+[17-Feb-2021 04:58:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/antoplis/host/neo-bazaar.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/antoplis/host/neo-bazaar.com/config/broadcasting.php on line 18
+[17-Feb-2021 04:58:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/antoplis/host/neo-bazaar.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/antoplis/host/neo-bazaar.com/config/cache.php on line 18
+[17-Feb-2021 04:58:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/antoplis/host/neo-bazaar.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/antoplis/host/neo-bazaar.com/config/database.php on line 18
+[17-Feb-2021 04:58:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/antoplis/host/neo-bazaar.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/antoplis/host/neo-bazaar.com/config/filesystems.php on line 16
+[17-Feb-2021 05:07:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/antoplis/host/neo-bazaar.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/antoplis/host/neo-bazaar.com/config/app.php on line 16
+[17-Feb-2021 05:07:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/antoplis/host/neo-bazaar.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/antoplis/host/neo-bazaar.com/config/broadcasting.php on line 18
+[17-Feb-2021 05:07:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/antoplis/host/neo-bazaar.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/antoplis/host/neo-bazaar.com/config/cache.php on line 18
+[17-Feb-2021 05:07:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/antoplis/host/neo-bazaar.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/antoplis/host/neo-bazaar.com/config/database.php on line 18
+[18-Feb-2021 00:24:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/antoplis/host/neo-bazaar.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/antoplis/host/neo-bazaar.com/config/app.php on line 16
+[18-Feb-2021 00:24:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/antoplis/host/neo-bazaar.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/antoplis/host/neo-bazaar.com/config/broadcasting.php on line 18
+[18-Feb-2021 00:24:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/antoplis/host/neo-bazaar.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/antoplis/host/neo-bazaar.com/config/cache.php on line 18
